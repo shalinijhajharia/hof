@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hof/static/css/main.7ee78606.chunk.css",
+    "main.js": "/hof/static/js/main.5e3b1613.chunk.js",
+    "main.js.map": "/hof/static/js/main.5e3b1613.chunk.js.map",
+    "runtime-main.js": "/hof/static/js/runtime-main.81f712a6.js",
+    "runtime-main.js.map": "/hof/static/js/runtime-main.81f712a6.js.map",
+    "static/js/2.503b08a8.chunk.js": "/hof/static/js/2.503b08a8.chunk.js",
+    "static/js/2.503b08a8.chunk.js.map": "/hof/static/js/2.503b08a8.chunk.js.map",
+    "static/js/3.961a2ac8.chunk.js": "/hof/static/js/3.961a2ac8.chunk.js",
+    "static/js/3.961a2ac8.chunk.js.map": "/hof/static/js/3.961a2ac8.chunk.js.map",
+    "index.html": "/hof/index.html",
+    "static/css/main.7ee78606.chunk.css.map": "/hof/static/css/main.7ee78606.chunk.css.map",
+    "static/js/2.503b08a8.chunk.js.LICENSE.txt": "/hof/static/js/2.503b08a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81f712a6.js",
+    "static/js/2.503b08a8.chunk.js",
+    "static/css/main.7ee78606.chunk.css",
+    "static/js/main.5e3b1613.chunk.js"
+  ]
+}
